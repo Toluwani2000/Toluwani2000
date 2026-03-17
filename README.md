@@ -119,7 +119,7 @@ A structured platform for managing user-specific financial records.
 ## 📫 Contact
 
 * Email: Spaceoptics.so@gmail.com
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/toluwanidjoyi/
 
 ---
 
