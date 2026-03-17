@@ -2,17 +2,17 @@
 
 **Startup Engineer | Full-Stack Developer | Technical Project Manager**
 
-I build and structure scalable digital products — from concept to deployment — with a strong focus on system design, product thinking, and real-world usability.
+I design, build, and deploy scalable digital products — combining engineering, product thinking, and execution to create systems that work in real-world environments.
 
 ---
 
 ## 🚀 What I Do
 
-* Build full-stack applications (frontend → backend → database)
-* Design systems before implementation (architecture-first approach)
-* Translate business ideas into working, scalable products
-* Structure projects into clear development phases (MVP → scale)
-* Create admin tools to support real operational use
+* Build full-stack applications (frontend → backend → database → deployment)
+* Design system architecture before development
+* Translate product ideas into scalable, production-ready systems
+* Structure projects into clear phases (MVP → scale)
+* Create admin tools for operational control and growth
 
 ---
 
@@ -20,26 +20,26 @@ I build and structure scalable digital products — from concept to deployment �
 
 I operate at the intersection of:
 
-* **Engineering** (React, Next.js, Node.js)
-* **Product Thinking** (user flows, system design, business logic)
-* **Execution** (planning, structuring, and delivering projects)
+* **Engineering** – React, Next.js, Node.js
+* **Product Thinking** – system design, workflows, business logic
+* **Execution** – planning, structuring, and delivering projects
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🔹 Verified Electronics Marketplace *(System Design + Product Build)*
+### 🔹 Verified Electronics Marketplace *(Flagship)*
 
-A trust-first marketplace designed to reduce fraud in online electronics trading.
+A trust-first marketplace designed to reduce fraud in online electronics transactions.
 
 **Key Features:**
 
 * Vendor onboarding and approval system
-* Device verification layer (pre-listing trust validation)
+* Device verification layer (pre-listing validation)
 * Transaction tracking with structured backend logic
 * Admin panel for operational control
 
-**What I Focused On:**
+**Focus:**
 
 * System architecture (modular backend design)
 * Fraud prevention through product design
@@ -55,19 +55,19 @@ A multi-location ticketing system with dynamic pricing and structured transactio
 
 * Location-based event selection
 * Tiered ticket pricing
-* Transaction handling system
+* Transaction management system
 
-**What I Focused On:**
+**Focus:**
 
-* Clean user flow from selection → purchase
+* Clean user flow (selection → purchase)
 * Scalable data modeling
-* Production-ready frontend/backend integration
+* Full-stack integration
 
 ---
 
 ### 🔹 Receipt & Transaction Management System
 
-A structured system for managing user-specific financial records.
+A structured platform for managing user-specific financial records.
 
 **Key Features:**
 
@@ -75,36 +75,39 @@ A structured system for managing user-specific financial records.
 * Editable transaction records
 * Unique user-linked data system
 
-**What I Focused On:**
+**Focus:**
 
-* Database integrity and relationships
+* Database integrity
 * Backend logic for financial tracking
-* Scalable structure for future expansion
+* Scalable system structure
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, Next.js, TypeScript
-* **Backend:** Node.js
-* **Database:** PostgreSQL
-* **Deployment:** Vercel
-* **Tools:** Git, Postman
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
+**Backend:** Node.js, PHP, Python
+**Database:** PostgreSQL, MongoDB
+**Cloud & Deployment:** AWS (EC2), DigitalOcean (Droplets), Vercel
+**Tools:** Git, Postman
+
+**Additional:** JavaScript, HTML, CSS, Vite, jQuery, .htaccess
 
 ---
 
-## ⚙️ How I Work
+## ⚙️ Deployment & DevOps
 
-* Start with **system design**, not just UI
-* Break products into **clear phases**
-* Build with **scalability in mind**
-* Focus on **real-world use cases**, not just demos
+* Deploy and manage applications on cloud infrastructure
+* Configure servers (AWS EC2, DigitalOcean Droplets)
+* Handle environment variables and production setup
+* Configure domains, ports, and SSL
+* Debug and maintain live production systems
 
 ---
 
 ## 🎯 What I'm Looking For
 
-* Remote roles in **startup or product-driven teams**
+* Remote roles in startup or product-driven teams
 * Opportunities as:
 
   * Full-Stack Engineer
@@ -116,11 +119,10 @@ A structured system for managing user-specific financial records.
 ## 📫 Contact
 
 * Email: Spaceoptics.so@gmail.com
-* LinkedIn: [your link]
+* LinkedIn: 
 
 ---
 
 ## 📌 Note
 
-Most of my projects are designed as **real systems**, not just UI demos.
-I focus on building products that can scale operationally and technically.
+All projects are built as **real systems**, not just demos — designed for scalability, operational control, and real-world usage.
